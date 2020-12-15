@@ -3,4 +3,4 @@ This is a collection of notes, scripts, and writeups taken from OSCP,HTB/THM Mac
 They will be periodiclly updated, created and meant for
 general pentesting and learning.
 
-created & maintained by: B4Ha-LzM17
+created & maintained by: (B4Ha-LzM17[https://github.com/B4Ha-LzM17]
