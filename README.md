@@ -1,6 +1,6 @@
 # My Pentesting Notes
 This is a collection of notes, scripts, and writeups taken from OSCP,HTB/THM Machines, Vulnhub and several CTF's.
-They will be periodiclly updated, and they're meant for
+They will be periodiclly updated, they're meant for
 general pentesting and learning.
 
 created & maintained by: [B4Ha-LzM17](https://github.com/B4Ha-LzM17)
