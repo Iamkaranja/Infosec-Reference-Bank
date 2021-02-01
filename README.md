@@ -1,5 +1,5 @@
 # My Pentesting Notes
-This is a collection of notes, scripts, and writeups taken from OSCP,HTB/THM Machines, Vulnhub and several CTF's.
+This is a collection of notes, scripts, and writeups taken from OSCP, HTB/THM Machines, Vulnhub and several CTF's.
 They will be periodiclly updated, they're meant for
 general pentesting and learning.
 
